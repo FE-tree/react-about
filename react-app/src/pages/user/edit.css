@@ -1,0 +1,16 @@
+.form {
+    margin: 20px .0;
+}
+.form label {
+    display: block;
+}
+
+/* .form label input {
+    display: none;
+}
+.edit label b {
+    display: none;
+}
+.edit label input {
+    display: inline;
+} */
