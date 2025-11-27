@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "react-app",
+			"path": "react-app"
+		},
+		{
+			"name": "my-app",
+			"path": "my-app"
+		},
+		{
+			"path": "msg-board"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2
+	}
+}
